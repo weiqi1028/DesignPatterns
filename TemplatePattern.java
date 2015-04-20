@@ -28,7 +28,7 @@ class ApplicationTwo extends Framework {
 	}
 	
 	void step3() {
-		System.out.println("Application 3 step 3");
+		System.out.println("Application 2 step 3");
 	}
 }
 
